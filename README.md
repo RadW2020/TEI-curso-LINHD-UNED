@@ -1,8 +1,8 @@
-# TEI-curso-LINHD-UNED
-#### http://linhd.uned.es/
-## Tecnologías digitales aplicadas al estudio de la poesía.
-##### Curso de Verano 2016 LINHD-UNED
 
+## Tecnologías digitales aplicadas al estudio de la poesía.
+#### http://linhd.uned.es/
+### Curso de Verano 2016 LINHD-UNED
+http://linhd.uned.es/p/dhsummer2016/
 
 
 Este curso supone una aproximación al estudio de la poesía desde el marco de las Humanidades Digitales, y se ocupará de analizar de forma práctica las tecnologías digitales que actualmente se están aplicando para las distintas modalidades del análisis poético: desde el marcado de textos y la edición académica digital en XML-TEI, la web semántica y los datos enlazados para el modelado conceptual y ontológico, el procesamiento del lenguaje natural para los análisis métricos y fonológicos, y la aplicación de tecnologías de minería de datos y estilometría con R. Todo esto, acompañado de especialistas internacionales que pondrán en práctica sobre los propios textos sus herramientas y desarrollos.
