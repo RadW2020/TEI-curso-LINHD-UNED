@@ -1,0 +1,27 @@
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.openarchives.org/ore/terms/Aggregation> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.europeana.eu/schemas/edm/aggregatedCHO> <http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.europeana.eu/schemas/edm/dataProvider> "BIVIAN" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.europeana.eu/schemas/edm/isShownAt> <http://www.bibliotecavirtualdeandalucia.es/catalogo/consulta/registro.cmd?id=1000863> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.europeana.eu/schemas/edm/isShownBy> <http://www.bibliotecavirtualdeandalucia.es/catalogo/catalogo_imagenes/imagen_id.cmd?idImagen=10729966> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.europeana.eu/schemas/edm/object> <http://www.bibliotecavirtualdeandalucia.es/catalogo/catalogo_imagenes/imagen_id.cmd?idImagen=10729966> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.europeana.eu/schemas/edm/provider> "BIVIAN" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052#aggregation> <http://www.europeana.eu/schemas/edm/rights> <http://creativecommons.org/publicdomain/mark/1.0/> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.europeana.eu/schemas/edm/ProvidedCHO> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/title> "[Retrato de I\u00F1igo Lopez de Mendoza]" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/terms/isReferencedBy> "Referencias: Iconograf\u00EDa Hispana, 5025-3" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/description> "Inscripci\u00F3n: \"El Marqu\u00E9s de Santillana\"" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/description> "Il. en: Lopez De Mendoza, I\u00F1igo. Marqu\u00E9s de Santillana. \u00AEObras de don I\u00F1igo L\u00F3pez de Mendoza\u00AE. Por don Jos\u00E9 Amador de los R\u00EDos, Madrid, 1852" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/description> "Ilustraci\u00F3n de Obras de don l\u00F1igo L\u00F3pez de Mendoza, por don Jos\u00E9 Amador de los R\u00EDos. Madrid, 1852" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/description> "Copia digital : realizada por la Biblioteca Nacional de Espa\u00F1a" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/description> "Craus, F. Lit\u00F3grafo y dibujante..Craus, F. Litograf\u00EDa de..R\u00EDos, Demetrio de los. Lit\u00F3grafo. Siglo XIX" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/type> "Ilustraciones y Fotos" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/language> "spa" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/date> "1852" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/creator> <http://www.bibliotecavirtualdeandalucia.es/catalogoaut/BAA20070013298> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/creator> <http://www.bibliotecavirtualdeandalucia.es/catalogoaut/BAA20070013298> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/contributor> <http://www.bibliotecavirtualdeandalucia.es/catalogoaut/BAA20090138568> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/subject> <http://www.bibliotecavirtualdeandalucia.es/catalogoaut/BAA20070050934> .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/subject> "Cat\u00E1logos - Material gr\u00E1fico - Grabados y Dibujos" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/subject> "Secciones - Biblioteca Gr\u00E1fica - Grabados y Dibujos" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://purl.org/dc/elements/1.1/rights> "http://creativecommons.org/publicdomain/mark/1.0/" .
+<http://www.bibliotecavirtualdeandalucia.es/catalogobib/BVA20070000052> <http://www.europeana.eu/schemas/edm/type> "IMAGE" .
