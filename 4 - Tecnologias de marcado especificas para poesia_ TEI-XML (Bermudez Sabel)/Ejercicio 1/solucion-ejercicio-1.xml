@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poema>
+    <estrofa rima="consonante">
+        <verso>Señora, qual soy venido</verso>
+        <verso>tal me parto</verso>
+        <verso>de trabajos más que farto,</verso>
+        <verso>dolorido.</verso>
+    </estrofa>
+    <estrofa rima="consonante">
+        <verso>Quien no se farta de males</verso>
+        <verso>y vida desplaziente</verso>
+        <verso>de las penas desiguales</verso>
+        <verso>sufre callando paciente,</verso>
+        <verso>sino yo que sin sentido</verso>
+        <verso>me dirán</verso>
+        <verso>los que mis males verán,</verso>
+        <verso>ay perdido</verso>
+    </estrofa>
+</poema>

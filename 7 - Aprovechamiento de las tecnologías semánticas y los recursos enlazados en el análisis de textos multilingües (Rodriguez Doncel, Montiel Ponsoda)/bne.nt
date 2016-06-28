@@ -1,0 +1,43 @@
+<http://datos.bne.es/resource/XX1106548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://datos.bne.es/def/C1005> .
+<http://datos.bne.es/resource/XX1106548> <http://www.w3.org/2000/01/rdf-schema#label> "Santillana, \u00CD\u00F1igo L\u00F3pez de Mendoza," .
+<http://datos.bne.es/resource/XX1106548> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/39642259> .
+<http://datos.bne.es/resource/XX1106548> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/%C3%8D%C3%B1igo_L%C3%B3pez_de_Mendoza,_1st_Marquis_of_Santillana> .
+<http://datos.bne.es/resource/XX1106548> <http://www.w3.org/2002/07/owl#sameAs> <http://d-nb.info/gnd/11878322X> .
+<http://datos.bne.es/resource/XX1106548> <http://www.w3.org/2002/07/owl#sameAs> <http://libris.kb.se/resource/auth/198897> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P5002> "1398-1458" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P1003> "port. (Marqu\u00E9s de Santillana)" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P1003> "(L\u00F3pez de Mendoza, \u00CD\u00F1igo (Carri\u00F3n de los Condes, Palencia, 1398-Guadalajara, 1458); el Marqu\u00E9s de Santillana es una de las figuras de mayor relieve pol\u00EDtico y literario de la \u00E9poca de Juan II)" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P1003> "port. (\u00CD\u00F1igo L\u00F3pez de Mendoza, Marqu\u00E9s de Santillana)" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX4989685> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2178002> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2556212> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX4984614> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2046425> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2241233> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814334> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814340> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2177995> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2059337> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814341> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814342> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2960940> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX5232832> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2177997> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814329> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814331> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814332> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2178001> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814333> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2177998> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814335> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814337> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX2814339> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/OP5001> <http://datos.bne.es/resource/XX5057775> .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P5001> "Santillana, \u00CD\u00F1igo L\u00F3pez de Mendoza," .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/id> "XX1106548" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P1002> "Serranillas, canciones y decires, 1994" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P1002> "Dic. de literatura espa\u00F1ola e hispanaomericana, 1993" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P1002> "Antolog\u00EDa de su obra en prosa y verso, 1985" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P5003> "Marqu\u00E9s de" .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P5012> "L\u00F3pez de Mendoza, \u00CD\u00F1igo," .
+<http://datos.bne.es/resource/XX1106548> <http://datos.bne.es/def/P5012> "Santillana," .
